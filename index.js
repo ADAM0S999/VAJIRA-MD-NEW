@@ -10,7 +10,7 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
+* Project name - dodo- MD 
 * Author - Vajira Rathnayaka
 * Team - Technical Cybers 
 * Version - V6
